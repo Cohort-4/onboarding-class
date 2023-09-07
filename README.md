@@ -17,8 +17,14 @@
 
 ## Basic git command
 
-#### `git init`
-#### `git add .`
-#### `git commit -m "first commit"`
-#### `git remote add origin https://github.com/marusoft/onboarding-class.git`
-#### `git push -u origin master`
+`git init`
+
+<code> hello </code>
+
+`git add .`
+
+`git commit -m "first commit"`
+
+`git remote add origin https://github.com/marusoft/onboarding-class.git`
+
+`git push -u origin master`
