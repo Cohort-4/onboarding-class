@@ -5,9 +5,9 @@
 
 `pwd`  : Print the current working directory.
 
-`mkdir`: Create a new directory.
+`mkdir` : Create a new directory.
 
-`touch`  Create an empty file.
+`touch` : Create an empty file.
 
 `rm` or `del` (Windows): Remove files and directories.
 
@@ -18,8 +18,6 @@
 ## Basic git command
 
 `git init`
-
-<code> hello </code>
 
 `git add .`
 
