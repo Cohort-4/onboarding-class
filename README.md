@@ -1,20 +1,23 @@
-## Command 
-`cd` : Change directory.
+## Basic Command Line Tools 
 
-`ls`  : List files and directories in the current directory.
+`cd`: Change directory.
 
-`pwd`  : Print the current working directory.
+`ls` (Unix-like) or `dir` (Windows): List files and directories in the current directory.
 
-`mkdir` : Create a new directory.
+`pwd` (Unix-like) or `echo %cd%` (Windows): Print the current working directory.
 
-`touch` : Create an empty file.
+`mkdir`: Create a new directory.
 
-`rm` or `del` (Windows): Remove files and directories.
+`touch` (Unix-like) or `echo > filename` (Windows): Create an empty file.
 
-`mv ` or `move` (Windows): Move or rename files and directories.
+`rm` (Unix-like) or `del` (Windows): Remove files and directories.
 
-`cp` or copy (Windows): Copy files and directories.
+`mv` (Unix-like) or `move` (Windows): Move or rename files and directories.
 
+`cp` (Unix-like) or `copy` (Windows): Copy files and directories.
+
+
+- Git is a powerful version control system that helps you track changes in your code and collaborate with others.
 ## Basic git command
 
 `git init`
@@ -26,3 +29,5 @@
 `git remote add origin https://github.com/marusoft/onboarding-class.git`
 
 `git push -u origin master`
+
+
