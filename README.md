@@ -37,7 +37,7 @@ changes in your code and collaborate with others.
 
 `git branch`: Lists all branches in the repository and highlights the current branch.
 
-`git checkout {branchname}``: Switches to a different branch. You can also use this command to create a new branch.
+`git checkout {branchname}`: Switches to a different branch. You can also use this command to create a new branch.
 
 `git merge {branchname}`: Combines the changes from one branch into the current branch.
 
