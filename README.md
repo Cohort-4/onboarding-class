@@ -22,6 +22,21 @@ List files and directories in the current directory.
 Git is a powerful version control system that helps you track 
 changes in your code and collaborate with others.
 
+### Common Basic git commands
+
+`git init` 
+
+`git status`
+
+`git add .`
+
+`git commit -m {"commit message"}`
+
+`git remote add origin {repo_url}`
+
+`git push -u origin master`
+
+
 ### Basic git commands
 `git init` : Initializes a new Git repository in the current directory.
 
@@ -63,19 +78,6 @@ name can be origin
 
 `git --help`  or  `git <command> --help` for more detailed information on each command.
 
-### Common Basic git commands
-
-`git init` 
-
-`git status`
-
-`git add .`
-
-`git commit -m "commit message"`
-
-`git remote add origin {repo_url}`
-
-`git push -u origin master`
 
 
 
