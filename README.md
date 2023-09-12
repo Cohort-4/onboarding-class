@@ -30,7 +30,7 @@ changes in your code and collaborate with others.
 
 `git add .`
 
-`git commit -m {"commit message"}`
+`git commit -m "commit message"`
 
 `git remote add origin {repo_url}`
 
